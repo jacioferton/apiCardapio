@@ -3,7 +3,7 @@ const data = [
         id: 0,
         nome: "Pastel de carne",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/0.png",
         categoria: "comida",
         descricao: "Pastel de forno sabor carne"
     },
@@ -11,7 +11,7 @@ const data = [
         id: 1,
         nome: "Pastel de queijo",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/1.png",
         categoria: "comida",
         descricao: "Pastel de forno sabor queijo"
     },
@@ -19,7 +19,7 @@ const data = [
         id: 2,
         nome: "Pastel misto",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/2.png",
         categoria: "comida",
         descricao: "Pastel de forno sabor misto"
     },
@@ -27,7 +27,7 @@ const data = [
         id: 3,
         nome: "Coxinha",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/3.png",
         categoria: "comida",
         descricao: "Coxinha de frango"
     },
@@ -35,7 +35,7 @@ const data = [
         id: 4,
         nome: "Enroladinho",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/4.png",
         categoria: "comida",
         descricao: "Enroladinho de queijo e salsicha"
     },
@@ -43,7 +43,7 @@ const data = [
         id: 5,
         nome: "Caldo de cana",
         preco: 4.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/5.png",
         categoria: "bebida",
         descricao: "700 ml"
     },
@@ -51,7 +51,7 @@ const data = [
         id: 6,
         nome: "Caldo de cana",
         preco: 3.00,
-        foto: "",
+        foto: "https://raw.githubusercontent.com/jacioferton/apiCardapio/main/assets/6.png",
         categoria: "bebida",
         descricao: "500 ml"
     },
